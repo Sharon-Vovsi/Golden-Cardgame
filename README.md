@@ -1,5 +1,5 @@
 # Golden-Cardgame
-NOTE: !!!APPLICATION ONLY WORKS IN WINDOWS 10!!!
+NOTE: !!!APPLICATION ONLY TESTED IN WINDOWS 10!!!
 
 Step 1: download the zip file
 
