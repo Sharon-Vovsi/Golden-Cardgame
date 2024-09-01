@@ -1,5 +1,6 @@
 # Golden-Cardgame
 NOTE: !!!APPLICATION ONLY TESTED IN WINDOWS 10!!!
+NOTE: !!!Aplication IN MOBILE RESOLUTION OPENS A NEW WINDOW WHEN PRESSING PLAY ()!!!
 
 Step 1: download the zip file
 
